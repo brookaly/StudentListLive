@@ -1,7 +1,7 @@
 package studentlistlive;
 
 /**
- *
+ *This class creates a list of students
  * @author alyssabrooks
  */
 public class StudentListLive {
